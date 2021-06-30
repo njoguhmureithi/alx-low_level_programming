@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+* main - returns a void result
+*/
 
 int main(void)
 {
