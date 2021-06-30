@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
 * main - returns a void result
+* Return: On success 0.
 */
 
 int main(void)
