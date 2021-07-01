@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+* main - holds the function
+* Return: 0 when sucess
+*/
 
 int main(void)
 {
