@@ -1,1 +1,1 @@
-More project files for pointers and arrays
+More project files for pointers, arrays and strings.
